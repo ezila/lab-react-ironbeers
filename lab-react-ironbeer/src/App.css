@@ -1,0 +1,131 @@
+.nav-style {
+  background-color: #3ec3fc;
+  height: 3.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-page img{
+  width: 100%;
+}
+
+.home-text {
+  margin: 0 1.7em 1.7em;
+}
+
+.home-text a {
+  color: black;
+}
+
+.home-page h1 {
+  font-size: 1.5em;
+  font-weight: 300;
+  margin: 0;
+}
+
+.home-page p {
+  color: grey;
+  font-size: 0.8em;
+  margin: 0;
+}
+
+.all-beers {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.all-beers a {
+  text-decoration: none;
+  color: black;
+}
+
+.all-beers img {
+  height: 6em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.text-all-beers {
+  width: 70%;
+}
+
+.text-all-beers h3 {
+  font-weight: 400;
+  margin-bottom: 0.4em;
+}
+
+.text-all-beers p {
+  color: grey;
+  margin-top: 0;
+}
+
+.text-all-beers span {
+  font-size: 0.7em;
+  color: black;
+}
+
+hr {
+  height: 1px;
+  width: 100%;
+  border: none;
+  background-color: #D3D3D3;
+}
+
+.single-beer {
+  margin: 1.5em;
+}
+
+.single-beer img {
+  height: 14em;
+  display: flex;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-line h1 {
+  font-weight: 300;
+  font-size: 1.7em;
+  margin: 0;
+}
+
+.first-line p {
+  font-weight: 600;
+  font-size: 1.7em;
+  margin: 0;
+  color: #D3D3D3;
+}
+
+.second-line p {
+  color: grey;
+}
+
+.second-line span {
+  font-weight: 800;
+  font-size: 0.8em;
+  color: black;
+}
+
+.third-part p {
+  margin-top: 0;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.third-part span {
+  color: grey;
+  font-size: 0.8em;
+  font-weight: 800;
+}
+
+.alignement {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
